@@ -1,2 +1,0 @@
-# Yasos-Bib
-Sas
